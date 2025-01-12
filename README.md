@@ -43,7 +43,7 @@ The application utilizes the following AWS resources:
 ## Architecture Diagram
 
 
-![Django Bicycle Parts E-commerce Application Architecture](./django/static/websitearchitecture.png)
+![Django Bicycle Parts E-commerce Application Architecture](images/websitearchitecture.png)
 
 
 This diagram illustrates the high-level architecture of the Django Bicycle Parts E-commerce Application. It shows how the different AWS services (EC2, RDS, S3, and Elastic Beanstalk) interact with the Django application to provide a scalable and robust e-commerce platform for selling bicycle parts. 
