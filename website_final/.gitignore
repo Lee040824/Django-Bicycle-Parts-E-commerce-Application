@@ -48,3 +48,6 @@ Temporary Items
 
 # AWS Cloud9
 **/.c9
+*/.c9
+.c9
+.nakignore
