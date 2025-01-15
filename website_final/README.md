@@ -8,15 +8,36 @@ The application is designed to run on AWS infrastructure, utilizing services suc
 
 ```
 .
+├── JSON
+|    └── Json-S3.txt
 ├── anycompany_bicycle_parts_files
-│   └── main.css
-├── anycompany_bicycle_parts_website html.html
+│   └── list of images 
 ├── django
-│   └── .venv
-├── order_details.json
-├── orders.json
-├── products.json
+│   ├── bicycle_app
+|   |   ├── __init__.py
+|   |   ├── models.py
+|   |   ├── templates/
+|   |   ├── urls.py
+|   |   └── views.py
+│   |── bicycle_project
+├   |   ├── __init__.py
+|   |   ├── asgi.py
+|   |   ├── settings.py
+|   |   ├── urls.py
+|   |   └── wsgi.py
+│   ├── static
+|   |    ├── admin
+|   |    └──css
+│   ├── db.sqlite3
+│   ├── manage.py
+│   ├── rear-light.jpeg
+|   └── requirements.txt
+├── .gitignore
 ├── README.md
+├── anycompany_bicycle_parts_website.html
+│── order_details.json
+│── orders.json
+│── products.json
 └── setup.sh
 ```
 
