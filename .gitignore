@@ -21,12 +21,11 @@
 # Icon must end with two \r
 Icon
 
-.ebextensions 
-website_final/django/.ebextensions
-.venv
-website_final/django/.venv
-.ebignore 
-website_final/django/.ebignore
+**/.ebextensions 
+**/.venv
+**/.ebignore 
+
+
 
 # Thumbnails
 ._*
