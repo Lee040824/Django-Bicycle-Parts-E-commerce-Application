@@ -22,7 +22,13 @@
 Icon
 
 
-
+#Environment 
+.ebextensions 
+website_final/django/.ebextensions
+.venv
+website_final/django/.venv
+.ebignore 
+website_final/django/.ebignore
 
 # Thumbnails
 ._*
